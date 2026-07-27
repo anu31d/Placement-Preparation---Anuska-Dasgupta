@@ -16,13 +16,10 @@
 
 ---
 
-## 📊 DSA Tracker
+## 📊 DSA Sheets
 
 - 📄 **Neetcode Sheet:** [Open DSA Tracker Sheet](https://neetcode.io/practice/practice/neetcode150)
-- ✅ Total Problems: `0 / 0`
-- 🔥 Current streak: `0 days`
-- 🏷️ Topics covered: Arrays · Strings · LinkedList · Trees · Graphs · DP · Greedy
-
+- 📄 **Striver SDE Sheet:** [Open DSA Tracker Sheet](https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems)
 ---
 
 ## 🧠 Aptitude Resources
@@ -43,6 +40,8 @@
 ## 🙏 Credits
 
 - 🎥 Aptitude videos: **KG Placement with Yash Sir** (YouTube) — [Channel Link](https://www.youtube.com/@kg_placement)
+- 🎥 Striver SDE Sheet: **Takeuforward** (Website) — [Website Link](https://takeuforward.org/)
+- 🎥 Neetcode 150 Sheet: **Neetcode** (Website) — [Website Link](https://neetcode.io/)
 
 ---
 
