@@ -18,7 +18,7 @@
 
 ## 📊 DSA Tracker
 
-- 📄 **Sheet:** [Open DSA Tracker Sheet](https://docs.google.com/spreadsheets/d/1giwfUfYMC4Qx4OHT9BfJo0ZQdT1MBiPi/edit?usp=sharing&ouid=109562783922922366967&rtpof=true&sd=true)
+- 📄 **Neetcode Sheet:** [Open DSA Tracker Sheet](https://neetcode.io/practice/practice/neetcode150)
 - ✅ Total Problems: `0 / 0`
 - 🔥 Current streak: `0 days`
 - 🏷️ Topics covered: Arrays · Strings · LinkedList · Trees · Graphs · DP · Greedy
