@@ -4,6 +4,7 @@
   <a href="mailto:anuska.dasguptaa@gmail.com">📧 anuska.dasguptaa@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/anuska-dasgupta-232a30293/">💼 LinkedIn</a> ·
   <a href="https://github.com/anu31d">💻 GitHub</a>
+  <a href="https://anu31d.github.io/AnuskaDasgupta-Portfolio/">💻 Portfolio</a>
 </p>
 
 ---
@@ -45,12 +46,5 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anu31d&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
 
 <p align="center">⭐️ Thanks for visiting my profile!</p>
