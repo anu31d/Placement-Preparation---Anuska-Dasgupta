@@ -18,7 +18,7 @@
 
 ## 📊 DSA Sheets
 
-- 📄 **Coding Bridge Course:** [soon!]()
+- 📄 **Coding Bridge Course:** [Open DSA Tracker Sheet](https://docs.google.com/spreadsheets/d/1j3kQq38rwqDSOQdwLmuqbCW7Pangz21w/edit?usp=drive_link&ouid=109562783922922366967&rtpof=true&sd=true)
 - 📄 **Neetcode Sheet:** [Open DSA Tracker Sheet](https://neetcode.io/practice/practice/neetcode150)
 - 📄 **Leetcode Top Interview 150 Sheet:** [Open DSA Tracker Sheet](https://leetcode.com/studyplan/top-interview-150/)
 
@@ -35,7 +35,7 @@
 
 ## ✅ Interview Prep Checklist
 
-- 📋 [Interview Prep Checklist](https://docs.google.com/spreadsheets/d/1giwfUfYMC4Qx4OHT9BfJo0ZQdT1MBiPi/edit?usp=sharing&ouid=109562783922922366967&rtpof=true&sd=true) 
+- 📋 [Interview Prep Checklist](https://docs.google.com/spreadsheets/d/1UsBZTuX50XXhJMMTwK_qz4ENsY7LbFwV/edit?usp=drive_link&ouid=109562783922922366967&rtpof=true&sd=true) 
 
 ---
 
