@@ -20,6 +20,7 @@
 
 - 📄 **Coding Bridge Course:** [soon!]()
 - 📄 **Neetcode Sheet:** [Open DSA Tracker Sheet](https://neetcode.io/practice/practice/neetcode150)
+- 📄 **Leetcode Top Interview 150 Sheet:** [Open DSA Tracker Sheet](https://leetcode.com/studyplan/top-interview-150/)
 
 ---
 
