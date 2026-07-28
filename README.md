@@ -4,7 +4,7 @@
   <a href="mailto:anuska.dasguptaa@gmail.com">📧 anuska.dasguptaa@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/anuska-dasgupta-232a30293/">💼 LinkedIn</a> ·
   <a href="https://github.com/anu31d">💻 GitHub</a>
-  <a href="https://anu31d.github.io/AnuskaDasgupta-Portfolio/">💻 Portfolio</a>
+  <a href="https://anu31d.github.io/Anuska-Dasgupta---Portfolio---Minimalist/">💻 Portfolio</a>
 </p>
 
 ---
