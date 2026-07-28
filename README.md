@@ -43,6 +43,7 @@
 
 - 🎥 Aptitude videos: **KG Placement with Yash Sir** (YouTube) — [Channel Link](https://www.youtube.com/@kg_placement)
 - 🎥 Neetcode 150 Sheet: **Neetcode** (Website) — [Website Link](https://neetcode.io/)
+- 🎥 Leetcode: **leetcode** (Website) — [Website Link](https://leetcode.com/)
 
 ---
 
