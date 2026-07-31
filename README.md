@@ -22,19 +22,19 @@
 
 ## 🗺️ How to Use This Repo
 
-If you're a junior just getting started, go in this order:
+If you're a just getting started, go in this order:
 
 1. **Start with the Coding Bridge Course**, do this before touching any other sheet. It fills the gaps in your basics, so the DSA sheets below actually make sense instead of feeling random.
 2. **Move to the Neetcode 150 Sheet**, this is your core DSA prep, organized by pattern (arrays, two pointers, trees, DP, etc.). Go topic by topic, don't jump around.
 3. **Layer in the Leetcode Top Interview 150** alongside or after Neetcode, these are the questions that show up most often in actual interviews, so use this to test what you've learned under a more "real interview" style set.
-4. **Do Aptitude in parallel**, not after, most placement drives test aptitude in an early round, so don't leave it until the end. 20–30 mins a day alongside DSA is enough.
-5. **Use the Interview Prep Checklist in your last 2–3 weeks** before interviews start, it's not for learning new topics, it's for confirming you're not missing any must-know topic before you walk in.
+4. **Do Aptitude in parallel**, not after; most placement drives test aptitude in an early round, so don't leave it until the end. 20–30 mins a day alongside DSA is enough.
+5. **Use the Interview Prep Checklist in your last 2–3 weeks** before interviews start; it's not for learning new topics, it's for confirming you're not missing any must-know topics before you walk in.
 
 ---
 
 ## 📊 DSA Sheets
 
-**Note:** these sheets are language-agnostic, they test problem-solving and patterns, not syntax. Use them in whichever language you're most comfortable with (C++, Java, Python, JS, etc.), the logic transfers regardless of what you code in.
+**Note:** these sheets are language-agnostic; they test problem-solving and patterns, not syntax. Use them in whichever language you're most comfortable with (C++, Java, Python, JS, etc.); the logic transfers regardless of what you code in.
 
 **Disclaimer:** the Status column (dropdown/checkbox tracking) works properly only when the sheet is downloaded as an Excel file, it may not function as expected if used directly in Google Sheets view.
 
@@ -66,7 +66,7 @@ If you're a junior just getting started, go in this order:
 **Disclaimer:** the Status column (dropdown/checkbox tracking) works properly only when the sheet is downloaded as an Excel file, it may not function as expected if used directly in Google Sheets view.
 
 - 📋 [Interview Prep Checklist](https://docs.google.com/spreadsheets/d/1zU4Fh9jlLpcgTIk-s5Jt1fhnLkyR1pn2/edit?usp=drive_link&ouid=109562783922922366967&rtpof=true&sd=true) 
-  - **What it's for:** a checklist of must-know topics before you walk into an interview, it's a final gap-check, not a learning resource.
+  - **What it's for:** a checklist of must-know topics before you walk into an interview; it's a final gap-check, not a learning resource.
   - **How to use it:** go through it 2–3 weeks before your interviews start. For anything you can't confidently tick off, go back to the relevant DSA sheet above and revise that topic specifically.
 
 ---
