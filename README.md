@@ -16,6 +16,10 @@
 
 ---
 
+> **Disclaimer:** This repository reflects my personal preparation strategy and the order/resources that worked for me. It is shared as a reference for juniors and should be adapted to suit individual pace, background, and goals rather than followed rigidly.
+
+---
+
 ## 🗺️ How to Use This Repo
 
 If you're a junior just getting started, go in this order:
@@ -31,6 +35,8 @@ If you're a junior just getting started, go in this order:
 ## 📊 DSA Sheets
 
 **Note:** these sheets are language-agnostic, they test problem-solving and patterns, not syntax. Use them in whichever language you're most comfortable with (C++, Java, Python, JS, etc.), the logic transfers regardless of what you code in.
+
+**Disclaimer:** the Status column (dropdown/checkbox tracking) works properly only when the sheet is downloaded as an Excel file, it may not function as expected if used directly in Google Sheets view.
 
 - 📄 **Coding Bridge Course Anuska Dasgupta:** [Open DSA Tracker Sheet](https://docs.google.com/spreadsheets/d/1j3kQq38rwqDSOQdwLmuqbCW7Pangz21w/edit?usp=drive_link&ouid=109562783922922366967&rtpof=true&sd=true)
   - **What it's for:** building your basics, attempt this *before* any other sheet on this list.
@@ -57,6 +63,8 @@ If you're a junior just getting started, go in this order:
 
 ## ✅ Interview Prep Checklist
 
+**Disclaimer:** the Status column (dropdown/checkbox tracking) works properly only when the sheet is downloaded as an Excel file, it may not function as expected if used directly in Google Sheets view.
+
 - 📋 [Interview Prep Checklist](https://docs.google.com/spreadsheets/d/1zU4Fh9jlLpcgTIk-s5Jt1fhnLkyR1pn2/edit?usp=drive_link&ouid=109562783922922366967&rtpof=true&sd=true) 
   - **What it's for:** a checklist of must-know topics before you walk into an interview, it's a final gap-check, not a learning resource.
   - **How to use it:** go through it 2–3 weeks before your interviews start. For anything you can't confidently tick off, go back to the relevant DSA sheet above and revise that topic specifically.
@@ -73,3 +81,5 @@ If you're a junior just getting started, go in this order:
 
 
 <p align="center">⭐️ Thanks for visiting my profile!</p>
+
+<p align="center">© 2026 Anuska Dasgupta. All rights reserved.</p>
