@@ -16,7 +16,7 @@
 
 ---
 
-> **Disclaimer:** This repository reflects my personal preparation strategy and the order/resources that worked for me. It is shared as a reference for juniors and should be adapted to suit individual pace, background, and goals rather than followed rigidly.
+> **Disclaimer:** This repository reflects my personal preparation strategy and the order/resources that worked for me. It is shared as a reference and should be adapted to suit individual pace, background, and goals rather than followed rigidly.
 
 ---
 
